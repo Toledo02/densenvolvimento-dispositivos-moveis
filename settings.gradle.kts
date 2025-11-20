@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CalculadoraIMC"
-include ':app'
+rootProject.name = "InventarioHardware"
+include(":app")

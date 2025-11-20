@@ -1,4 +1,4 @@
-package com.example.calculadoraimc;
+package com.example.inventariohardware;
 
 import org.junit.Test;
 
